@@ -12,4 +12,4 @@ for(i=0; i<n; i++)//Atribuição(i =inicia a 0); Comparação(i é menor que n, se si
     }
 }
 
-f(n)=3n+2
+f(n)=6n+3
