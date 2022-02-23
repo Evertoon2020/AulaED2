@@ -1,4 +1,5 @@
 
+
 int i,j,s;//Declaração(Declarar i,j,s como variavel do tipo inteiro).
 s=0;//Atribuição(s =inicia a 0)
 for(i=1; i<n-1; i++)//Atribuição(i =inicia a 1); Comparação(i é menor que n-1, se sim continua, se não finaliza o for); Incrementa(i recebe soma + 1).
