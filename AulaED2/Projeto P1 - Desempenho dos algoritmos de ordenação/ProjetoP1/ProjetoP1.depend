@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650746946 source:c:\users\evert\documents\codeblocks\aulaed2\projeto p1 - desempenho dos algoritmos de ordenação\projetop1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+	"projetoP1.h"
+
+1650746765 c:\users\evert\documents\codeblocks\aulaed2\projeto p1 - desempenho dos algoritmos de ordenação\projetop1\projetop1.h
+

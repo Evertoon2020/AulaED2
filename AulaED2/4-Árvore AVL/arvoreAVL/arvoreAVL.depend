@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1651272977 source:z:\everton\arvoreavl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreAVL.h"
+
+1651272722 z:\everton\arvoreavl\arvoreavl.h
+
+1652047968 source:c:\users\evert\documents\codeblocks\aulaed2\4-Árvore avl\arvoreavl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreAVL.h"
+
+1652048041 c:\users\evert\documents\codeblocks\aulaed2\4-Árvore avl\arvoreavl\arvoreavl.h
+
